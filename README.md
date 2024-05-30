@@ -5,3 +5,8 @@
 * This is first paragraph
 * This is **Bold**
 * This is _italic_
+
+* Hera is an Example code
+'''python
+print("hello world")
+'''
